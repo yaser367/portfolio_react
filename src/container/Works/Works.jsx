@@ -31,7 +31,7 @@ const Works = () => {
       description: "It's a clone of olx application.",
       projectLink: "",
       codeLink: "https://github.com/yaser367/olx-react",
-      tag: ["React", "All"],
+      tag: ["React Js", "All"],
       imgUrl: images.olx,
     },
    

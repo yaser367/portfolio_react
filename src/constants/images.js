@@ -1,5 +1,5 @@
 import Logo from '../assets/yaser.png'
-import Profile from '../assets/profile-pic.png'
+import Profile from '../assets/profile-main.png'
 import Circle from '../assets/circle.svg'
 import MongoDB from '../assets/mongoDB.png'
 import React from '../assets/reactJs.png'
